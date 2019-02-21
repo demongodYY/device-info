@@ -13,9 +13,9 @@ const handle = app.getRequestHandler();
 const jsonParser = bodyParser.json();
 
 AV.init({
-  appId: process.env.LEANCLOUD_APP_ID || 'jJWbpayxqslEycPMqkyCRlYl-gzGzoHsz',
-  appKey: process.env.LEANCLOUD_APP_KEY || '4kTCbtWKXR4q9RWimGTPXyx8',
-  masterKey: process.env.LEANCLOUD_APP_MASTER_KEY || '5Qo5h52gEQ4rnmfYUmUPnofq'
+  appId: process.env.LEANCLOUD_APP_ID ,
+  appKey: process.env.LEANCLOUD_APP_KEY ,
+  masterKey: process.env.LEANCLOUD_APP_MASTER_KEY
 });
 
 app.prepare()
