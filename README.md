@@ -4,9 +4,11 @@
 - next.js
 - react
 - express
-- sqlite
+- sqlite3
 ## 运行开发环境
 1. 在 /services/db/目录下创建 database.db 文件
 2. 运行 node ./services/db/createDB.js 创建数据库表
 3. npm run dev 运行开发环境
 4. 访问 localhost:3000
+## ps
+- 封装了 sqlite3 的 promise 版
