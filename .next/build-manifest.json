@@ -1,0 +1,55 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/components/FormDrawer": [
+      "static/runtime/webpack-838b392324e3598684b5.js",
+      "static/css/commons.e4f50183.chunk.css",
+      "static/chunks/commons.bb201fc78cc8b802cd62.js",
+      "static/css/styles.2d8c821b.chunk.css",
+      "static/chunks/styles.3121c1db4fe6337f6371.js",
+      "static/runtime/main-3a37dd056ec474988271.js"
+    ],
+    "/components/QrCard": [
+      "static/runtime/webpack-838b392324e3598684b5.js",
+      "static/css/commons.e4f50183.chunk.css",
+      "static/chunks/commons.bb201fc78cc8b802cd62.js",
+      "static/runtime/main-3a37dd056ec474988271.js"
+    ],
+    "/device": [
+      "static/runtime/webpack-838b392324e3598684b5.js",
+      "static/css/commons.e4f50183.chunk.css",
+      "static/chunks/commons.bb201fc78cc8b802cd62.js",
+      "static/css/styles.2d8c821b.chunk.css",
+      "static/chunks/styles.3121c1db4fe6337f6371.js",
+      "static/runtime/main-3a37dd056ec474988271.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-838b392324e3598684b5.js",
+      "static/css/commons.e4f50183.chunk.css",
+      "static/chunks/commons.bb201fc78cc8b802cd62.js",
+      "static/css/styles.2d8c821b.chunk.css",
+      "static/chunks/styles.3121c1db4fe6337f6371.js",
+      "static/runtime/main-3a37dd056ec474988271.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-838b392324e3598684b5.js",
+      "static/css/commons.e4f50183.chunk.css",
+      "static/chunks/commons.bb201fc78cc8b802cd62.js",
+      "static/runtime/main-3a37dd056ec474988271.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-838b392324e3598684b5.js",
+      "static/css/commons.e4f50183.chunk.css",
+      "static/chunks/commons.bb201fc78cc8b802cd62.js",
+      "static/runtime/main-3a37dd056ec474988271.js"
+    ],
+    "/": [
+      "static/runtime/webpack-838b392324e3598684b5.js",
+      "static/css/commons.e4f50183.chunk.css",
+      "static/chunks/commons.bb201fc78cc8b802cd62.js",
+      "static/css/styles.2d8c821b.chunk.css",
+      "static/chunks/styles.3121c1db4fe6337f6371.js",
+      "static/runtime/main-3a37dd056ec474988271.js"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+/node_modules/
+/services/db/database.db
+/.leancloud/
+/.leanignore

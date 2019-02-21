@@ -1,0 +1,50 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/components/FormDrawer.js": 0,
+      "multi private-next-pages/components/QrCard.js": 1,
+      "multi private-next-pages/device.js": 2,
+      "multi private-next-pages/index.js": 3,
+      "multi next/dist/pages/_app": 4,
+      "multi next/dist/pages/_error": 5,
+      "multi next/dist/pages/_document": 6
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\hTkDaPYdLgHi2Syi9GO4h\\pages\\_app.js": 0,
+      "static\\hTkDaPYdLgHi2Syi9GO4h\\pages\\_document.js": 1,
+      "static\\hTkDaPYdLgHi2Syi9GO4h\\pages\\_error.js": 2,
+      "static\\hTkDaPYdLgHi2Syi9GO4h\\pages\\components\\FormDrawer.js": 3,
+      "static\\hTkDaPYdLgHi2Syi9GO4h\\pages\\components\\QrCard.js": 4,
+      "static\\hTkDaPYdLgHi2Syi9GO4h\\pages\\device.js": 5,
+      "static\\hTkDaPYdLgHi2Syi9GO4h\\pages\\index.js": 6,
+      "static\\gvmEBjkSZY2OXztwabvZp\\pages\\_app.js": 7,
+      "static\\gvmEBjkSZY2OXztwabvZp\\pages\\_document.js": 8,
+      "static\\gvmEBjkSZY2OXztwabvZp\\pages\\_error.js": 9,
+      "static\\gvmEBjkSZY2OXztwabvZp\\pages\\components\\FormDrawer.js": 10,
+      "static\\gvmEBjkSZY2OXztwabvZp\\pages\\components\\QrCard.js": 11,
+      "static\\gvmEBjkSZY2OXztwabvZp\\pages\\device.js": 12,
+      "static\\gvmEBjkSZY2OXztwabvZp\\pages\\index.js": 13
+    },
+    "bySource": {},
+    "usedIds": [
+      10,
+      11,
+      12,
+      13,
+      7,
+      8,
+      9
+    ]
+  }
+}
